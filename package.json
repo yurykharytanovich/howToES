@@ -1,0 +1,19 @@
+{
+  "name": "howtoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurykharytanovich/howToES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurykharytanovich/howToES/issues"
+  },
+  "homepage": "https://github.com/yurykharytanovich/howToES#readme"
+}
