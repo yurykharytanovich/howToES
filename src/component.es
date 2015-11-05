@@ -1,7 +1,7 @@
-import './component';
+import './_component';
 
 export default class Component {
     render(){
-        return '<div> Hello WORLD, Nigga!</div>';
+        return '<div> Hello WORLD, Niggers!</div>';
     }
 }
